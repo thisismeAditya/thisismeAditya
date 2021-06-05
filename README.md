@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @thisismeAditya
-- 👀 I’m interested in Full-Stack Development
-- 🌱 I’m currently learning React + Redux
-- 💞️ I’m looking to collaborate on React / SpringBoot / MySql related projects.
+
 - 📫 How to reach me iamaditya5378@gmail.com
 
 <!---
